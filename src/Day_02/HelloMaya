@@ -1,3 +1,10 @@
-//Hello babay
+package Day_02;
 
+public class HelloMaya {
+    public static void main(String[] args) {
 
+        // I love you ;
+
+        // i made change
+    }
+}

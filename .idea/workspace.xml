@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9558005b-42cd-4bcb-82c2-21575eabeb7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Day_01/AddComment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day_01/AllGood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_01/AllGood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day_02/HelloMaya" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_02/HelloMaya" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +22,35 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b3oChOIe9jB7IpQXd9GAXc2Xel" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HappyBirthDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_01.HappyBirthDay" />
+      <module name="gitPractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HappyBirthDay" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,5 +64,23 @@
       <updated>1587870011632</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590674684600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1600.0.1600.900@0.0.1366.728" timestamp="1590674684600" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1590676987467">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728/-1600.0.1600.900@0.0.1366.728" timestamp="1590676987467" />
+    <state x="65" y="0" key="new project wizard" timestamp="1588209051134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/-1600.-132.1600.900@0.0.1366.728" timestamp="1588209051134" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588197588897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1600.-132.1600.900@0.0.1366.728" timestamp="1588197588896" />
   </component>
 </project>

@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+=======
+package Day_02;
+
+public class HelloMaya {
+    public static void main(String[] args) {
+
+        // I love you ;
+
+        // i made change
+    }
+}
+>>>>>>> a1e6c028bb81174311685bde2068d64811611f02
